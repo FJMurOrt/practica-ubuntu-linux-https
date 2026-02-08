@@ -1,4 +1,4 @@
-# Práctica HTTPS y Certificados
+# Práctica SSL
 
 Mi nombre es Francisco Javier Muriel Orta y este es uno de los ejercicios realizados para Despliegue de Aplicaciones Web durante el segundo año de DAW.
 
